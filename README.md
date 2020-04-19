@@ -2,6 +2,7 @@
 Mark Down Tutorial (Only the most important ones)  
 >Github official tutorial (https://guides.github.com/features/mastering-markdown/)  
 Interative tutorial (https://www.markdowntutorial.com/)
+Basic syntax (https://www.markdownguide.org/basic-syntax/)
 
 1. Text
 
@@ -32,4 +33,4 @@ emoji (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 * Hard Break
 > Insert new line
 * Soft Break
-> Insert two spaces at the end of previous line
+> Insert two spaces or one tab at the end of previous line
