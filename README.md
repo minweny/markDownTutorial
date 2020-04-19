@@ -16,9 +16,9 @@ Interative tutorial (https://www.markdowntutorial.com/)
 **bold**
 
 ```
-[link to Google!](http://google.com)
+[link to Google](http://google.com)
 ```
-[link to Google!](http://google.com)
+[link to Google](http://google.com)
 
 ```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
